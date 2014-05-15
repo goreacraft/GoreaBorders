@@ -1,0 +1,12 @@
+name: GoreaBorders
+author: GoreaCraft
+main: com.goreacraft.plugins.borders.Main
+version: 1.0
+website: http://www.goreacraft.com
+description: Restrict items by coordinates!
+commands:
+  goreaborders:
+    aliases: [gborder, gborders]
+    description: Advanced item world borders plugin
+    default: false
+    usage: More info on '/gborder help'

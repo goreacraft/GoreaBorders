@@ -1,0 +1,5 @@
+ChechUpdates: true
+Console output border crosing: true
+Allow move in global region: false
+Check players only on chunk change: true
+Movement sensitiveness: 0.001
